@@ -75,6 +75,9 @@ em{
 .container-fluid {
   padding: 3% 7% 15%;
 }
+.fa-star{
+  color: gold;
+}
 .gallery-container {
   margin-top: 10%;
 }
