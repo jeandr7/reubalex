@@ -65,6 +65,9 @@ em{
 .book-now-button{
   margin-top: 3%;
 }
+.bark-img {
+  margin-left: 10%;
+}
 .carousel-item{
   padding: 7% 20%;
 
@@ -130,12 +133,23 @@ em{
   width: 17%;
   border-radius: 100%;
 }
+
 .row {
   display: flex;
   flex-wrap: wrap;
   padding: 0 4px;
 }
 
+.reg-img {
+  width:60%;
+}
+.reg-container {
+  margin-top: 270px;
+  padding: 3%
+}
+.reg-column {
+  padding: 10px;
+}
 /* Create four equal columns that sits next to each other */
 .column {
   flex: 25%;
